@@ -1,5 +1,4 @@
 # Yep
-
 A community where geniuses meet
 
 https://soyep.com
